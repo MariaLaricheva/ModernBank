@@ -2,4 +2,6 @@
 
 ## React app built with vite and styled with tailwind
 
-Visit [https://mvlaricheva-hoobank.netlify.app/](this link) to check it out!
+Visit [this link](https://mvlaricheva-hoobank.netlify.app/) to check it out!
+
+Website is responsive. Also it looks very pretty.
